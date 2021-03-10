@@ -5,3 +5,5 @@ sdfdsfs
 test05 gjfgofdjgoidfjdif
 
 baba
+
+test 07 daniel inverted-merge
